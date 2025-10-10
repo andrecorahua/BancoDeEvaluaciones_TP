@@ -1,5 +1,5 @@
 **PLAN PROYECTO TIPO ARREGLO**
-Sigue estos pasos en este orden. La idea es compilar temprano, validar con datos mínimos y avanzar por capas.
+
 
 1) Preparar estructura y entorno
 Crea carpetas:
