@@ -1,0 +1,3 @@
+D:/PUCP/2025-2/TP/BancoDeEvaluaciones/LAB 5/Lab05_25-1/cmake-build-debug/CMakeFiles/Lab05_25_1.dir
+D:/PUCP/2025-2/TP/BancoDeEvaluaciones/LAB 5/Lab05_25-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/2025-2/TP/BancoDeEvaluaciones/LAB 5/Lab05_25-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
