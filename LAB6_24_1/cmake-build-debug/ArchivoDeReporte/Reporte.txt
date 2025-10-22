@@ -1,0 +1,22 @@
+                                              INSTITUCION EDUCATIVA TP
+                                  PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                  CICLO 24-1
+                                                 FACULTAD ARQUITECTURA
+============================================================================================================================================
+         ALUMNO                                           No de Cursos      Suma Ponderada     No. de creditos      Prom Ponderado
+============================================================================================================================================
+20238549 - Ericka Victoria Justino Forzani                    12                752.00              56.00              13.43
+20205830 - Elizabeth Elizabeth Fernandez Ortega               13                722.00              54.00              13.37
+20205844 - Tatiana Nancy Villa Yallico                        15                928.75              69.00              13.46
+20193769 - Cinthia Norabuena Preciado                         22               1176.00             102.75              11.45
+20226271 - Edgard Henry Velasquez Huayanay                    16                871.25              71.75              12.14
+20207053 - Marthavaleria Lozada Yino                          15                796.75              71.75              11.10
+20202687 - Ines Martha Morales Valverde                       15                867.25              64.50              13.45
+20219566 - Milena Jenny Medina Velasquez                      22               1281.75              98.50              13.01
+20229272 - Johana Dali Cruz Fuentes                           18               1177.00              79.50              14.81
+20222575 - Paul Yoshinari Rivera                              19               1048.50              84.50              12.41
+20208175 - Williams Christian Hijar Yep                       15                834.00              65.50              12.73
+20237059 - Guillermo Jorge Calderon Ortega                    10                540.50              46.00              11.75
+20208971 - Rafael Flavio Suarez Bolanos                       13                725.00              55.25              13.12
+20233816 - Rony Gonzalo Valverde Berrocal                     14                822.75              63.75              12.91
+20208940 - Carlos Alberto Barrios Tomasiche                   13                719.50              60.50              11.89
