@@ -1,0 +1,3 @@
+D:/PUCP/2025-2/TP/LAB1/Lab1_24_1/cmake-build-debug/CMakeFiles/LAB01_BY_KROSEL.dir
+D:/PUCP/2025-2/TP/LAB1/Lab1_24_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/2025-2/TP/LAB1/Lab1_24_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
